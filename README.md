@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alperen!
 
-🎓 I am a **software engineering student**, and I work on software development.
-🎯 My goal is to create high-quality projects as a productive and constantly learning developer.
+- 🎓 I am a **software engineering student**, and I work on software development.
+- 🎯 My goal is to create high-quality projects as a productive and constantly learning developer.
 
 ---
 
